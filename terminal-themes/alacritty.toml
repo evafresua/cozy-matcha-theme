@@ -1,0 +1,34 @@
+# Cozy Matcha - Alacritty Terminal Theme
+# Añade esto a tu ~/.config/alacritty/alacritty.toml
+
+[colors.primary]
+background = "#1e221f"
+foreground = "#d4e0d7"
+
+[colors.cursor]
+text = "#1e221f"
+cursor = "#aebf9c"
+
+[colors.selection]
+text = "#d4e0d7"
+background = "#324632"
+
+[colors.normal]
+black = "#171a18"
+red = "#d07878"
+green = "#8da38c"
+yellow = "#aebf9c"
+blue = "#799478"
+magenta = "#afc9ab"
+cyan = "#92ab8c"
+white = "#d4e0d7"
+
+[colors.bright]
+black = "#a4b5a9"
+red = "#d07878"
+green = "#b1ccad"
+yellow = "#aebf9c"
+blue = "#799478"
+magenta = "#afc9ab"
+cyan = "#92ab8c"
+white = "#ffffff"
