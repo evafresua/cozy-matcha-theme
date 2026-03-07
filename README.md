@@ -1,26 +1,26 @@
-# Obsidian Migraña y Dislexia Theme for VS Code
+# 🍵 Cozy Matcha Theme for VS Code
 
-Este es un tema para Visual Studio Code inspirado en el snippet de CSS de Obsidian "migrana-dislexia". Está diseñado específicamente para usuarios con migrañas, fotofobia y dislexia.
+¡Bienvenido a **Cozy Matcha**! Un tema diseñado para que programar sea como tomarse un tecito caliente en un jardín zen. Adiós a la fatiga visual, hola a la comodidad.
 
-## Características
+## ✨ ¿Por qué mola?
 
-- **Diseño Anti-Migraña**: Bajo contraste luminoso, luz cálida, y uso de tonos verdes relajantes (`FL-41`).
-- **Soporte para Dislexia**: Colores ajustados para facilitar la lectura. Se recomienda usar con fuentes como `Lexend`, `OpenDyslexic` o `Comic Sans MS`.
-- **Previene la Fatiga Normal**: Sin colores fosforescentes ni saturados.
+- **Vibras relajantes**: Bajo contraste luminoso y tonos verde pastel (estilo FL-41) que son súper gentiles con los ojos. 
+- **Lectura como la seda**: Ajustado para que las letras fluyan suavemente sin cansar. Combínalo con fuentes adorables como `Lexend`, `OpenDyslexic` o incluso la amigable `Comic Sans MS`.
+- **Modo Zen activado**: Colores suaves y terrosos, nada de neones locos.
 
-## Instalación
+## 🛠️ Instalación para estar 'Cozy'
 
-1. Clona o descarga este repositorio.
-2. Copia la carpeta a tu directorio de extensiones de VS Code:
-   - Linux: `~/.vscode/extensions/obsidian-migraine-vscode-theme`
-   - Windows: `%USERPROFILE%\.vscode\extensions\obsidian-migraine-vscode-theme`
-   - macOS: `~/.vscode/extensions/obsidian-migraine-vscode-theme`
-3. Reinicia VS Code.
-4. Ve a **Preferencias > Tema de Color** (\`Ctrl+K Ctrl+T\`) y selecciona **Obsidian Migraña y Dislexia**.
+1. Clona o descarga este repositorio mágico.
+2. Copia la carpeta a tu rincón de extensiones de VS Code:
+   - Linux: `~/.vscode/extensions/cozy-matcha-theme`
+   - Windows: `%USERPROFILE%\.vscode\extensions\cozy-matcha-theme`
+   - macOS: `~/.vscode/extensions/cozy-matcha-theme`
+3. Reinicia tu VS Code (para que haga efecto la magia).
+4. Ve a **Preferencias > Tema de Color** (\`Ctrl+K Ctrl+T\`) y selecciona **Cozy Matcha**.
 
-## Configuraciones recomendadas del editor
+## 🎨 Ajustes extra para el Zen absoluto
 
-Para obtener la experiencia completa de dislexia y anti-mareos, añade esto a tu `settings.json` de VS Code:
+Para que la experiencia sea un 10/10 en suavidad, te recomendamos añadir esta receta secreta a tu `settings.json` de VS Code:
 
 ```json
 {
