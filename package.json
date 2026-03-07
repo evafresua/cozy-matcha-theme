@@ -1,0 +1,21 @@
+{
+  "name": "obsidian-migraine-vscode-theme",
+  "displayName": "Obsidian Migraña y Dislexia Theme",
+  "description": "Un tema para VS Code basado en el snippet de Obsidian para migraña y dislexia (bajo contraste, luz cálida, tonos verdes y alta legibilidad).",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obsidian Migraña y Dislexia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/obsidian-migraine.json"
+      }
+    ]
+  }
+}
