@@ -1,6 +1,4 @@
-# 🍵 Cozy Matcha Theme for VS Code
-
-¡Bienvenido a **Cozy Matcha**! Un tema diseñado para que programar sea como tomarse un tecito caliente en un jardín zen. Adiós a la fatiga visual, hola a la comodidad.
+# 🍵 Cozy Matcha Theme
 
 
 ## Temas para la Terminal (Kitty, Alacritty y Script universal)
