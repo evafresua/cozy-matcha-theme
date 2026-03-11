@@ -8,10 +8,9 @@ En la carpeta **`terminal-themes/`** tienes todos los archivos necesarios:
 - **`alacritty.toml`**: Perfecto para insertarlo en la configuración de tu Alacritty (\`~/.config/alacritty/\`).
 - **`apply-theme.sh`**: Ejecuta `./apply-theme.sh` para aplicar los colores en caliente de inmediato sobre la terminal que estés usando en el momento.
 
-## Instalación en VS Code para estar 'Cozy'
-
-1. Clona o descarga este repositorio mágico.
-2. Copia la carpeta a tu rincón de extensiones de VS Code:
+## Instalación en VS Code 
+1. Clona o descarga este repositorio
+2. Copia la carpeta a VS Code:
    - Linux: `~/.vscode/extensions/cozy-matcha-theme`
    - Windows: `%USERPROFILE%\.vscode\extensions\cozy-matcha-theme`
    - macOS: `~/.vscode/extensions/cozy-matcha-theme`
